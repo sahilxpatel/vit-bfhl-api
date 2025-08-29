@@ -1,0 +1,14 @@
+{
+  "name": "vit-bfhl-api",
+  "version": "1.0.0",
+  "description": "VIT BFHL REST API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ajani Sahil",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.
+  }
+}
